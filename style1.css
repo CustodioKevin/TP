@@ -1,0 +1,83 @@
+code
+{
+
+
+	background-color: #03DCDF;
+
+	color: #FFF;
+	font-size : 2rem;
+
+font-family: Verdana;
+
+border: 2px solid #03DCDF;
+display: block;
+
+
+
+text-align: center;
+
+
+
+}
+
+section {
+
+
+width: 28%;
+height: 450px;
+border: 2px solid #03DCDF;
+float: left;
+border-radius: 6px;
+margin: 0 1.5% 24px 1.5%;
+
+
+
+}
+
+header {
+
+margin: 15px 1.5% 30px 1.5%;
+
+
+	
+}
+
+footer {
+
+
+	clear: both;
+}
+
+p {
+
+padding: 5px;
+	text-align: justify;
+
+	font-style: italic;
+
+
+}
+
+.c1 {
+
+
+	background-color: #DAF1F1;
+}
+
+.c2 {
+
+	background-color: #3AB4B4
+}
+
+.t1 {
+
+
+	color: blue;
+}
+
+.t2  {
+
+
+
+	color: yellow;
+}
