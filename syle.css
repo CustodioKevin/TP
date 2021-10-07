@@ -89,6 +89,11 @@ ol li:nth-child(5)::before {
 	background: #7C89DD;
 }
 
+ol li:nth-child(6)::before {
+
+	background: #7C89DD;
+}
+
 ol li:hover {
 
 	transform: translateX(20px);
